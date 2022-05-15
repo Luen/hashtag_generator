@@ -1,0 +1,15 @@
+Frequent - more than 700k posts
+USE 1-4
+HARD
+
+Average - more than 100k but less than 700k posts posts
+USE 10-15
+MEDIUM
+
+Rare - under 100k posts
+USE 5-10
+EASY
+
+
+After you get the results, choose 1-4 frequent, 10-15 average and 5-10 rare hashtags related to your request.
+This proportion guarantees the highest reach for the post.
